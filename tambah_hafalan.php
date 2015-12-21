@@ -104,7 +104,7 @@ function cek(){
       <table width="401" border="0" align="right">
         <tr>
           <td width="102"><input type="submit" name="simpan" id="simpan" value="Simpan" /></td>
-           <td width="88" align="left" action="biodata_siswa"><button type="button" onclick="window.location='biodata_siswa.php'">Batal</button></td>
+           <td width="88" align="left" action="biodata_ustadz"><button type="button" onclick="window.location='biodata_siswa.php'">Batal</button></td>
          
         </tr>
       </table>

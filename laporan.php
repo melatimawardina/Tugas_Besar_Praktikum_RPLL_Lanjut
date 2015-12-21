@@ -29,7 +29,7 @@
       </tr>
       <tr>
         <td height="65">Nomor ID </td>
-        <td align="right"><form method="post" action="laporan_hapalan.php"><input type="text" id="id" name="id"><input type="submit" value="Hafalan Santri" name="submit" id="cari"></form>
+        <td align="right"><form method="post" action="laporan_hafalan.php"><input type="text" id="id" name="id"><input type="submit" value="Hafalan Santri" name="submit" id="cari"></form>
 
        </td>
         <td>&nbsp;</td>

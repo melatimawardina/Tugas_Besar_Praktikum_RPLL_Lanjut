@@ -15,9 +15,7 @@ include "lock.php";
       <table width="536" border="0" align="center" cellpadding="0" cellspacing="0">
         <tr>
           <td width="200"><img src="al-qur'an.jpg" width="200" height="200" alt="Al-Qur'an" /></td>
-          <td colspan="2" align="right" valign="top">
-            <input type="submit" name="ubah_password" id="ubah_password" value="Ganti Password" />
-            <button type="button" onclick="window.location='logout.php'">Keluar</button>
+          <td colspan="2" align="right" valign="top"><button type="button" onclick="window.location='logout.php'">Keluar</button>
           </td>
         </tr>
         <?php
